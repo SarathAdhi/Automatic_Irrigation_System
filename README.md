@@ -22,4 +22,4 @@ Adafruit -> GFX and SSD1306 (library for OLED Display)   if u want u can ignore
 
 ![image](https://user-images.githubusercontent.com/91727830/144025098-88481d8e-8151-4474-942e-d866fa2f4fe1.png)
 
-also available in the repo as #Automatic_irrigation_system.ino
+also available in the repo as Automatic_irrigation_system.ino
